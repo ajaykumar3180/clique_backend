@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739277303814",
+    "project_id": "cliqueeproject",
+    "storage_bucket": "cliqueeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739277303814:android:d2c2319eca8fa7b39f1387",
+        "android_client_info": {
+          "package_name": "com.example.cliquee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpT39NABN82vyr5tPnRwaLrC_aQVqIP6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
